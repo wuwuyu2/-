@@ -1,0 +1,6 @@
+{
+  "name": "英语口语随身练 (English Speaking Pocket Trainer)",
+  "description": "一款全方位的英语口语学习应用，提供日常场景对话、AI句子润色、AI外教聊天、发音跟读及收藏功能。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
